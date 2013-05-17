@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Red Planet Dark</string>
 	<key>settings</key>
-	<array>s
+	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
@@ -79,7 +79,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Support Functin</string>
+			<string>Support Function</string>
 			<key>scope</key>
 			<string>support.function</string>
 			<key>settings</key>
