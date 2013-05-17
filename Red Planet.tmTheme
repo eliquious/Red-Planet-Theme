@@ -79,7 +79,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Support Functin</string>
+			<string>Support Function</string>
 			<key>scope</key>
 			<string>support.function</string>
 			<key>settings</key>
