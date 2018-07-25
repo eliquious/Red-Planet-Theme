@@ -2,7 +2,7 @@ Theme - Red Planet
 ==================
 
 A Sublime Text 2 color scheme based off of the "Ciapre Dark" theme with slight mods.
-Interpreted for consoles by ibrokemypie.
+Interpreted for consoles and Atom by ibrokemypie.
 
 Screenshots
 -----------
